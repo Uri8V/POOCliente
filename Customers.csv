@@ -1,0 +1,92 @@
+﻿CustomerID;CompanyName;Address;City;Country;PostalCode;Phone
+ALFKI;Alfreds Futterkiste;Obere Str. 57;Berlin;Germany;12209;030-0074321
+ANATR;Ana Trujillo Emparedados y helados;Avda. de la Constitución 2222;México D.F.;Mexico;5021;(5) 555-4729
+ANTON;Antonio Moreno Taquería;Mataderos  2312;México D.F.;Mexico;5023;(5) 555-3932
+AROUT;Around the Horn;120 Hanover Sq.;London;UK;WA1 1DP;(171) 555-7788
+BERGS;Berglunds snabbköp;Berguvsvägen  8;Luleå;Sweden;S-958 22;0921-12 34 65
+BLAUS;Blauer See Delikatessen;Forsterstr. 57;Mannheim;Germany;68306;0621-08460
+BLONP;Blondesddsl père et fils;24, place Kléber;Strasbourg;France;67000;88.60.15.31
+BOLID;Bólido Comidas preparadas;C/ Araquil, 67;Madrid;Spain;28023;(91) 555 22 82
+BONAP;Bon app';12, rue des Bouchers;Marseille;France;13008;91.24.45.40
+BOTTM;Bottom-Dollar Markets;23 Tsawassen Blvd.;Tsawassen;Canada;T2F 8M4;(604) 555-4729
+BSBEV;B's Beverages;Fauntleroy Circus;London;UK;EC2 5NT;(171) 555-1212
+CACTU;Cactus Comidas para llevar;Cerrito 333;Buenos Aires;Argentina;1010;(1) 135-5555
+CENTC;Centro comercial Moctezuma;Sierras de Granada 9993;México D.F.;Mexico;5022;(5) 555-3392
+CHOPS;Chop-suey Chinese;Hauptstr. 29;Bern;Switzerland;3012;0452-076545
+COMMI;Comércio Mineiro;Av. dos Lusíadas, 23;Sao Paulo;Brazil;05432-043;(11) 555-7647
+CONSH;Consolidated Holdings;Berkeley Gardens 12  Brewery;London;UK;WX1 6LT;(171) 555-2282
+DRACD;Drachenblut Delikatessen;Walserweg 21;Aachen;Germany;52066;0241-039123
+DUMON;Du monde entier;67, rue des Cinquante Otages;Nantes;France;44000;40.67.88.88
+EASTC;Eastern Connection;35 King George;London;UK;WX3 6FW;(171) 555-0297
+ERNSH;Ernst Handel;Kirchgasse 6;Graz;Austria;8010;7675-3425
+FAMIA;Familia Arquibaldo;Rua Orós, 92;Sao Paulo;Brazil;05442-030;(11) 555-9857
+FISSA;FISSA Fabrica Inter. Salchichas S.A.;C/ Moralzarzal, 86;Madrid;Spain;28034;(91) 555 94 44
+FOLIG;Folies gourmandes;184, chaussée de Tournai;Lille;France;59000;20.16.10.16
+FOLKO;Folk och fä HB;Åkergatan 24;Bräcke;Sweden;S-844 67;0695-34 67 21
+FRANK;Frankenversand;Berliner Platz 43;München;Germany;80805;089-0877310
+FRANR;France restauration;54, rue Royale;Nantes;France;44000;40.32.21.21
+FRANS;Franchi S.p.A.;Via Monte Bianco 34;Torino;Italy;10100;011-4988260
+FURIB;Furia Bacalhau e Frutos do Mar;Jardim das rosas n. 32;Lisboa;Portugal;1675;(1) 354-2534
+GALED;Galería del gastrónomo;Rambla de Cataluña, 23;Barcelona;Spain;8022;(93) 203 4560
+GODOS;Godos Cocina Típica;C/ Romero, 33;Sevilla;Spain;41101;(95) 555 82 82
+GOURL;Gourmet Lanchonetes;Av. Brasil, 442;Campinas;Brazil;04876-786;(11) 555-9482
+GREAL;Great Lakes Food Market;2732 Baker Blvd.;Eugene;USA;97403;(503) 555-7555
+GROSR;GROSELLA-Restaurante;5ª Ave. Los Palos Grandes;Caracas;Venezuela;1081;(2) 283-2951
+HANAR;Hanari Carnes;Rua do Paço, 67;Rio de Janeiro;Brazil;05454-876;(21) 555-0091
+HILAA;HILARION-Abastos;Carrera 22 con Ave. Carlos Soublette #8-35;San Cristóbal;Venezuela;5022;(5) 555-1340
+HUNGC;Hungry Coyote Import Store;City Center Plaza 516 Main St.;Elgin;USA;97827;(503) 555-6874
+HUNGO;Hungry Owl All-Night Grocers;8 Johnstown Road;Cork;Ireland;;2967 542
+ISLAT;Island Trading;Garden House Crowther Way;Cowes;UK;PO31 7PJ;(198) 555-8888
+KOENE;Königlich Essen;Maubelstr. 90;Brandenburg;Germany;14776;0555-09876
+LACOR;La corne d'abondance;67, avenue de l'Europe;Versailles;France;78000;30.59.84.10
+LAMAI;La maison d'Asie;1 rue Alsace-Lorraine;Toulouse;France;31000;61.77.61.10
+LAUGB;Laughing Bacchus Wine Cellars;1900 Oak St.;Vancouver;Canada;V3F 2K1;(604) 555-3392
+LAZYK;Lazy K Kountry Store;12 Orchestra Terrace;Walla Walla;USA;99362;(509) 555-7969
+LEHMS;Lehmanns Marktstand;Magazinweg 7;Frankfurt a.M.;Germany;60528;069-0245984
+LETSS;Let's Stop N Shop;87 Polk St. Suite 5;San Francisco;USA;94117;(415) 555-5938
+LILAS;LILA-Supermercado;Carrera 52 con Ave. Bolívar #65-98 Llano Largo;Barquisimeto;Venezuela;3508;(9) 331-6954
+LINOD;LINO-Delicateses;Ave. 5 de Mayo Porlamar;I. de Margarita;Venezuela;4980;(8) 34-56-12
+LONEP;Lonesome Pine Restaurant;89 Chiaroscuro Rd.;Portland;USA;97219;(503) 555-9573
+MAGAA;Magazzini Alimentari Riuniti;Via Ludovico il Moro 22;Bergamo;Italy;24100;035-640230
+MAISD;Maison Dewey;Rue Joseph-Bens 532;Bruxelles;Belgium;B-1180;(02) 201 24 67
+MEREP;Mère Paillarde;43 rue St. Laurent;Montréal;Canada;H1J 1C3;(514) 555-8054
+MORGK;Morgenstern Gesundkost;Heerstr. 22;Leipzig;Germany;4179;0342-023176
+NORTS;North/South;South House 300 Queensbridge;London;UK;SW7 1RZ;(171) 555-7733
+OCEAN;Océano Atlántico Ltda.;Ing. Gustavo Moncada 8585 Piso 20-A;Buenos Aires;Argentina;1010;(1) 135-5333
+OLDWO;Old World Delicatessen;2743 Bering St.;Anchorage;USA;99508;(907) 555-7584
+OTTIK;Ottilies Käseladen;Mehrheimerstr. 369;Köln;Germany;50739;0221-0644327
+PARIS;Paris spécialités;265, boulevard Charonne;Paris;France;75012;(1) 42.34.22.66
+PERIC;Pericles Comidas clásicas;Calle Dr. Jorge Cash 321;México D.F.;Mexico;5033;(5) 552-3745
+PICCO;Piccolo und mehr;Geislweg 14;Salzburg;Austria;5020;6562-9722
+PRINI;Princesa Isabel Vinhos;Estrada da saúde n. 58;Lisboa;Portugal;1756;(1) 356-5634
+QUEDE;Que Delícia;Rua da Panificadora, 12;Rio de Janeiro;Brazil;02389-673;(21) 555-4252
+QUEEN;Queen Cozinha;Alameda dos Canàrios, 891;Sao Paulo;Brazil;05487-020;(11) 555-1189
+QUICK;QUICK-Stop;Taucherstraße 10;Cunewalde;Germany;1307;0372-035188
+RANCH;Rancho grande;Av. del Libertador 900;Buenos Aires;Argentina;1010;(1) 123-5555
+RATTC;Rattlesnake Canyon Grocery;2817 Milton Dr.;Albuquerque;USA;87110;(505) 555-5939
+REGGC;Reggiani Caseifici;Strada Provinciale 124;Reggio Emilia;Italy;42100;0522-556721
+RICAR;Ricardo Adocicados;Av. Copacabana, 267;Rio de Janeiro;Brazil;02389-890;(21) 555-3412
+RICSU;Richter Supermarkt;Grenzacherweg 237;Genève;Switzerland;1203;0897-034214
+ROMEY;Romero y tomillo;Gran Vía, 1;Madrid;Spain;28001;(91) 745 6200
+SANTG;Santé Gourmet;Erling Skakkes gate 78;Stavern;Norway;4110;07-98 92 35
+SAVEA;Save-a-lot Markets;187 Suffolk Ln.;Boise;USA;83720;(208) 555-8097
+SEVES;Seven Seas Imports;90 Wadhurst Rd.;London;UK;OX15 4NB;(171) 555-1717
+SIMOB;Simons bistro;Vinbæltet 34;Kobenhavn;Denmark;1734;31 12 34 56
+SPECD;Spécialités du monde;25, rue Lauriston;Paris;France;75016;(1) 47.55.60.10
+SPLIR;Split Rail Beer & Ale;P.O. Box 555;Lander;USA;82520;(307) 555-4680
+SUPRD;Suprêmes délices;Boulevard Tirou, 255;Charleroi;Belgium;B-6000;(071) 23 67 22 20
+THEBI;The Big Cheese;89 Jefferson Way Suite 2;Portland;USA;97201;(503) 555-3612
+THECR;The Cracker Box;55 Grizzly Peak Rd.;Butte;USA;59801;(406) 555-5834
+TOMSP;Toms Spezialitäten;Luisenstr. 48;Münster;Germany;44087;0251-031259
+TORTU;Tortuga Restaurante;Avda. Azteca 123;México D.F.;Mexico;5033;(5) 555-2933
+TRADH;Tradição Hipermercados;Av. Inês de Castro, 414;Sao Paulo;Brazil;05634-030;(11) 555-2167
+TRAIH;Trail's Head Gourmet Provisioners;722 DaVinci Blvd.;Kirkland;USA;98034;(206) 555-8257
+VAFFE;Vaffeljernet;Smagsloget 45;Århus;Denmark;8200;86 21 32 43
+VICTE;Victuailles en stock;2, rue du Commerce;Lyon;France;69004;78.32.54.86
+VINET;Vins et alcools Chevalier;59 rue de l'Abbaye;Reims;France;51100;26.47.15.10
+WANDK;Die Wandernde Kuh;Adenauerallee 900;Stuttgart;Germany;70563;0711-020361
+WARTH;Wartian Herkku;Torikatu 38;Oulu;Finland;90110;981-443655
+WELLI;Wellington Importadora;Rua do Mercado, 12;Resende;Brazil;08737-363;(14) 555-8122
+WHITC;White Clover Markets;305 - 14th Ave. S. Suite 3B;Seattle;USA;98128;(206) 555-4112
+WILMK;Wilman Kala;Keskuskatu 45;Helsinki;Finland;21240;90-224 8858
+WOLZA;Wolski  Zajazd;ul. Filtrowa 68;Warszawa;Poland;01-012;(26) 642-7012
